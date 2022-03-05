@@ -1,2 +1,2 @@
-*.ipyn*
 node_modules
+*ipyn*
