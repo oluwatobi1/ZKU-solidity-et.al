@@ -1,5 +1,9 @@
 node_modules
 *ipyn*
 circom
-*.*
+Week1 Assignment/wk1 snark/
 !circuit.circom
+!package.json
+!merkle.circom
+!package-lock.json
+helper
