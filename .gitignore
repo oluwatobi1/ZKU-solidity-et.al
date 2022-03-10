@@ -7,6 +7,7 @@ Week1 Assignment/wk1 snark/*
 Week1 Assignment/wk1 snark/merkle_tree/*
 !Week1 Assignment/wk1 snark/merkle_tree/merkle.circom
 !Week1 Assignment/wk1 snark/merkle_tree/input.json
+!Week1 Assignment/wk1 snark/merkle_tree/execute.sh
 !circuit.circom
 !package.json
 !package-lock.json
