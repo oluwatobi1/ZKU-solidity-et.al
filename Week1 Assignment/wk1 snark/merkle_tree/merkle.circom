@@ -42,4 +42,4 @@ template MerkleRoot(n) {
     root <== merkle_tree[0];   
 }
 
-component main {public [leaves]} = MerkleRoot(4);
+component main {public [leaves]} = MerkleRoot(8);
